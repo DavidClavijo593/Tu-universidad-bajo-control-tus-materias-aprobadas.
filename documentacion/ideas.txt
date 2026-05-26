@@ -1,0 +1,18 @@
+Funciones principales
+Organización de horarios universitarios.
+Registro de materias aprobadas, en curso y pendientes.
+Calendario de tareas, exámenes y entregas.
+Recordatorios importantes para evitar olvidos.
+Seguimiento del progreso académico.
+Gestión del tiempo personal y académico.
+Visualización rápida del avance de la carrera.
+Plataforma intuitiva y fácil de usar para estudiantes.
+🚀 Ventajas
+Centraliza toda la información académica en un solo lugar.
+Reduce el desorden y la pérdida de información.
+Facilita la planificación diaria y semanal.
+Ayuda a mejorar la organización del tiempo.
+Permite controlar el avance curricular fácilmente.
+Disminuye el estrés académico.
+Interfaz moderna, simple y accesible.
+Compatible con diferentes dispositivos.
