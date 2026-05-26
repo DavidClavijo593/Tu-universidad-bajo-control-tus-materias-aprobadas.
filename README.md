@@ -43,5 +43,6 @@ detalla las funciones, ventajas y características del proyecto, y mantiene actu
   realiza los commits, organiza el historial de cambios y administra el acceso y orden del contenido en la plataforma.
 
 
+Este repositorio fue actualizado por David Clavijo para incluir documentación y recursos adicionales.
 
 
